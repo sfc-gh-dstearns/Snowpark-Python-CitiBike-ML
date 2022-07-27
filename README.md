@@ -26,3 +26,4 @@ Regarding the **Stored Procedure**, standard warehouses allocate 5GiB RAM to the
 * `conda activate snowpark-demos`  
 
 Now you have everything you need. If you want to use VS Code to run this demo, you have to make sure the environment is selected: 
+![alt text](https://github.com/sfc-gh-dstearns/Snowpark-Python-CitiBike-ML/blob/main/VSCODE.png)
